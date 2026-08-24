@@ -68,8 +68,6 @@ Git • Azure DevOps • Docker • Testing • Scrum/Kanban
 ## 📬 Contacto
 
 - 📧 **Email:** anna.valdivieso@gmail.com
-- 📱 **Teléfono:** +34 636 13 94 81
-- 💼 **LinkedIn:** [linkedin.com/in/annavaldivieso](#) *(pendiente de completar)*
 
 ---
 
